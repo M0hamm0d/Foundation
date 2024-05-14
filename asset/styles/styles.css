@@ -60,9 +60,12 @@ body{
 .foundation{
     font-size: 25px;
     font-weight: 800;
-    color: hsl(47, 88%, 63%);
+    color: black;
     font-family: "Figtree", sans-serif;
     text-decoration: none;
+}
+.foundation:hover{
+    color: hsl(47, 88%, 63%);
 }
 .about{
     margin-top: 15px;
